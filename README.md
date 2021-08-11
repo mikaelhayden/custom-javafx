@@ -1,6 +1,6 @@
 # Custom JavaFX Project
 
-Repositório padrão de projeto JavaFX para facilitar as configurações de uso da biblioteca gráfica JavaFX
+Repositório padrão de projeto JavaFX para facilitar as configurações de uso da biblioteca gráfica JavaFX no Visual Studio Code
 
 ## Dependências
 
@@ -8,10 +8,8 @@ Repositório padrão de projeto JavaFX para facilitar as configurações de uso 
 2. <a href="https://gluonhq.com/products/scene-builder/">Scene Builder</a> para criação das interfaces FXML.
 3. Biblioteca gráfica <a href="https://gluonhq.com/products/javafx/">JavaFX</a>
 
-{
-  "title": "Configurações Auxiliares"
-}
-[/block]
+## Configurações Auxiliares
+
 1. Clonar o repositório ``` git clone https://github.com/jhollyferr/custom-javafx.git```
 2. Baixar a biblioteca <a href="https://gluonhq.com/products/javafx/">JavaFX</a>
 3. Abrir o projeto no seu Visual Studio Code
