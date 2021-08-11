@@ -1,12 +1,13 @@
-[block:api-header]
-{
-  "title": "Dependências"
-}
-[/block]
+# Custom JavaFX Project
+
+Repositório padrão de projeto JavaFX para facilitar as configurações de uso da biblioteca gráfica JavaFX
+
+## Dependências
+
 1. <a href="https://www.oracle.com/br/java/technologies/javase-downloads.html">Java JDK </a> (JDK 8+) instalada em sua máquina, de preferência a JDK 16.
 2. <a href="https://gluonhq.com/products/scene-builder/">Scene Builder</a> para criação das interfaces FXML.
 3. Biblioteca gráfica <a href="https://gluonhq.com/products/javafx/">JavaFX</a>
-[block:api-header]
+
 {
   "title": "Configurações Auxiliares"
 }
