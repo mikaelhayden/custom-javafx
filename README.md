@@ -17,7 +17,7 @@ Repositório padrão de projeto JavaFX para facilitar as configurações de uso 
    ```Java Projects > Referenced Libraries > + > javafx > lib```
 
    Após isto você terá a seguinte estrutura em seu projeto
-    ![Alt text](relative/readme/teste.png/to/img.jpg?raw=true "Teste")
+    ![Alt text](readme/teste.png)
 
 4. Editar a path ``` C:/javafx/lib ``` para sua path local em ``` "vmArgs"```, ```.vscode > launch.json ``
 [block:api-header]
